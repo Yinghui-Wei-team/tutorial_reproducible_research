@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+output
+
+data
+
+create_repos_github/*.rtf
